@@ -93,6 +93,7 @@ a[href]{
     margin: 10px 0px 10px 0px;
 }
 #xemthem{
+    border: 1px solid silver;
     display: block;
     text-align: center;
     padding: 5px;
