@@ -154,6 +154,21 @@ a[href]{
     padding-bottom: 15px;
     padding-top: 15px;
 }
+.marketing{
+    position: relative;
+}
+.marketing-left{
+    position: absolute;
+    position: fixed;
+    bottom: 200px;
+    left: 25px;
+}
+.marketing-right{
+    position: absolute;
+    position: fixed;
+    bottom: 200px;
+    right: 25px
+}
 .tenshop{
     color: whitesmoke;
 }
